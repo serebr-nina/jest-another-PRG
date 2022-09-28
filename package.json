@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-prg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serebr-nina/jest-another-PRG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serebr-nina/jest-another-PRG/issues"
+  },
+  "homepage": "https://github.com/serebr-nina/jest-another-PRG#readme",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  }
+}
