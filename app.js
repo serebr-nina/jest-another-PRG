@@ -1,1 +1,4 @@
-console.log("hello Node!");
+const Game = require('./lib/Game');
+
+new Game().initializeGame();
+
